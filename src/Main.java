@@ -27,9 +27,9 @@ public class Main {
 
         fullName = fullName.replace('ё', 'e');
 
-            System.out.println("Employee's full name data - " + fullName);
+        System.out.println("Employee's full name data - " + fullName);
 
-        }
+    }
 
 }
 
